@@ -82,6 +82,7 @@ Julia Bolting
 - Jot
 - FedeBuonco
 - Vikram Mondal (https://github.com/vikram7599)
+- Gabriela 
 - kayode Aina(https://github.com/firstcontributions/first-contributions)
 - Tushar Phirke(https://github.com/phirketushar)
 - Sonam Klein (https://github.com/sonamdo)
